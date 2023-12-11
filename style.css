@@ -264,6 +264,7 @@ section{
 .about .row .content h3{
     font-size: 3rem ;
     color: #fff;
+    padding-left: 1rem;
 }
 
 .about .row .content p{
@@ -272,6 +273,8 @@ section{
     padding: 1rem;
     line-height: 1.8;
 }
+
+
 
 
 .menu .box-container{
